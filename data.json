@@ -1,0 +1,56 @@
+{
+  "basics":{
+  "photo":"download.png",
+    "name":"k.sujatha",
+    "phone":"123456789",
+    "email":"sujathasky518@gmail.com"
+  },
+  "skills":[
+    {
+      "name":"Programming languages",
+      "value":"C,C++,JAVA"
+    },
+    {
+      "name":"operating Systems",
+      "value":"Windows,Linux"
+    },
+    {
+      "name":"Web technologies",
+      "value":"HTML,CSS,JAVASCRIPT,PYTHON"
+    }
+  ],
+"education":[
+  {
+    "course":"B.tech(Cmputer sceience and engineering)",
+    "college":[
+      "Sri venkateswara institute of technology",
+      "2015-2019",
+      "70%"
+    ]
+  },
+  {
+    "course":"intermediate",
+    "college":[
+      "Narayana junior college",
+      "2013-2015",
+      "70%"
+  ]
+},
+{
+  "course":"intermediate",
+  "college":[
+    "Narayana junior college",
+    "2013-2015",
+    "70%"
+]
+},
+{
+"course":"SSC",
+"college":[
+  "Raman english medium schhol",
+  "2012-2013",
+  "70"
+]
+}
+]
+}
